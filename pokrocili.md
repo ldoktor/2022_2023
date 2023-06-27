@@ -28,7 +28,7 @@ Cílem kurzu není vzdělat hotového programátora, ale rozvíjet logické
 myšlení, algoritmizaci a jiné vlastnosti, které se dětem budou hodit
 při studiu jakéhokoliv oboru.
 
-Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
+Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina
 
@@ -153,7 +153,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
     <img align="right" src="pokrocili-1-10-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Seznámení s Micro:bitem, jaké má vstupy, jaké výstupy, který "šváb" je zodpovědný za co, kde je anténa, ...
   * Seznámení s prostředím makecode, základními kategoriemi a hlavně způsobem uploadu programu do Micro:bitu
   * Zobrazování různých obrázků na integrovaném 5x5 ledkovém displeji, reakce na tlačítka A, B, A+B, piny 0, 1, 2 a zatřesení
@@ -168,7 +168,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 </a>
 
 * Seznámení s notovou osnovou, výškou a délkou not
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Předvedení koledy [Jak jsi krásné neviňátko](https://makecode.microbit.org/_a3JUJCECsT4k)
   * Tvorba vlastní koledy (transformace dat z notového zápisu do formátu makecode)
 
@@ -178,7 +178,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
     <img align="right" src="pokrocili-1-12-koledy-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Tvorba vlastní koledy (transformace dat z notového zápisu do formátu makecode) [pomůcka](../2019_2022/2019-11-koledy.pdf)
   * Připojení externího reproduktoru pomocí "krokosvorek"
 
@@ -191,7 +191,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 * Vysavač
   * Ukázka vnitřností rozbitého vysavače a naznačení možnosti opravy
   * Komutátorový motor, mikročip, zesilovač, kondenzátory, rezistory, ...
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Projekt ``Sfoukni svíčku``
 
 ## 14. hodina
@@ -216,7 +216,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 15. hodina
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * 2 skupiny vytvářely projekty ve ``Wonder Building Kitu`` (kolotoč a automatické autíčko), 1 skupinka v ``Groove shieldu`` (blik, alarm, bezdrátový metr)
 
 ## 16. hodina
@@ -231,7 +231,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
     <img align="right" src="pokrocili-1-16-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * ``Wonder Building Kit`` skupinky pokračovaly ve svých projektech (kolotoč a automatické autíčko) a  ``Grove shield`` skupinka si hrála s LED páskem (různé varianty duhy)
 
 ## 17. hodina
@@ -240,7 +240,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
     <img align="right" src="pokrocili-2-01-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * ``Wonder Building Kit`` skupinky vytvářeli robotickou ruku a motorku, ``Grove shield`` skupinka ovládala LED diodu a připravila si skokometr
 
 ## 18. hodina
@@ -252,7 +252,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
     <img align="right" src="pokrocili-2-02-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Robotická ruka, autíčko sledující čáru a několikero projektů ve stavebnici Grove
 
 ## 19. hodina
@@ -261,7 +261,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
     <img align="right" src="pokrocili-2-03-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Pokračování s ``Wonder Building Kit`` (Chodící Yeti, basketbalový koš a robotická ruka)
 
 ## 20. hodina
@@ -270,7 +270,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
     <img align="right" src="pokrocili-2-04-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Pokračování s ``Wonder Building Kit`` (Chodící Yeti, basketbalový koš a vysokozdvižný vozík)
 
 ## 21. hodina
@@ -279,7 +279,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
     <img align="right" src="pokrocili-2-05-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Pokračování s ``Wonder Building Kit`` (Chodící Yeti s detekcí překážky, robotický pes a vysokozdvižný vozík)
 
 ## 22. hodina
@@ -395,4 +395,4 @@ y rozdíly a na závěr představily nejoblíbenější zadání
   * Minetest je hra inspirovaná Minecraftem ale kompletně open-source s velkým množstvím rozšířeních a k dispozici zdarma. Základní hra nabídne několik druhů bločků a nic moc navíc, proto doporučuji kliknout dole v menu "+" (Instalovat hry z ContentDB) a přidat rozšíření jako třeba "MineClone 2", jež je dost podobné Minecraftu. Nebo pouze přidat "Mobs Redo", jež přidává do hry tvory/zvířata (pokud nechcete nebezpečné tvory, je možné použít přidat "only_peaceful_mobs = true" do konfiguračního souboru "minetest.conf", čímž se nepřidají nestvůry, ale pouze hodná zvířata). Hra samozřejmě umožňuje více hráčů buď lokálně, nebo po síti (podobně jak v Minecraftu).
   * My jsme využili tuto hru k nastínění agilní metodologie řízení projektů. Děti dostali za úkol [vytvořit vesnici dle zadaných požadavků](../assets/minetest-vesnice.pdf). Pro zjednodušení a zrychlení dostaly úkoly sprintu připravené. Následně si braly jednoduché úkoly a na konci sprintu (po setmění) jsme zhodnotili a naplánovali další.
 
-<img align="right" src="../../media/robots_bottom.jpg">
+<img align="right" src="../media/robots_bottom.jpg">

@@ -28,7 +28,7 @@ Cílem kurzu není vzdělat hotového programátora, ale rozvíjet logické
 myšlení, algoritmizaci a jiné vlastnosti, které se dětem budou hodit
 při studiu jakéhokoliv oboru.
 
-Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
+Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 
 ## 1. hodina
@@ -39,7 +39,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
   * Speedrun začátku kurzu C
 * [Twinery](https://twinery.org)
   * Ukázka tree-ware gamebooku - "O Norikovi"
-  * Ukázka interaktivního příběhu [O né tak úplně červené Karkulce](../twinery/karkulka.html)
+  * Ukázka interaktivního příběhu [O né tak úplně červené Karkulce](../assets/twinery/karkulka.html)
   * Domácí úkol - přemýšlet o vlastním interaktivním příběhu, který si v následující hodině pokusíme zpracovat
 
 ## 2. hodina
@@ -61,8 +61,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 ## 4. hodina
 
 * [Twinery](https://twinery.org)
-  * Ukázkové projekty: [O né tak úplně červené Karkulce](../twinery/karkulka.html) a [Ostrov](../twinery/Ostrov.html)
-  * [Návod na twinery](../twinery/Jak na twinery.html)
+  * Ukázkové projekty: [O né tak úplně červené Karkulce](../assets/twinery/karkulka.html) a [Ostrov](../assets/twinery/Ostrov.html)
+  * [Návod na twinery](../assets/twinery/Jak na twinery.html)
 
 ## 5. hodina
 
@@ -72,7 +72,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
         (if: $podmínka)[Vše v těchto závorkách se zobrazí pouze pokud je podmínka splněna]\
         (else:)[Vše v těchto závorkách se zobrazí pouze pokud podmínka splněna není]
 
-  * Zakončení práce s Twinery. Pro pokračování doma využijte [Návod na twinery](../twinery/Jak na twinery.html)
+  * Zakončení práce s Twinery. Pro pokračování doma využijte [Návod na twinery](../assets/twinery/Jak na twinery.html)
     návody na internetu, nebo výše poskytnuté ukázky. Případné otázky rád zodpovím v hodinách a návod případně
     aktualizuji.
 
@@ -218,13 +218,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili2-2-03-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Seznámení s Micro:bitem
   * Připomenutí makecode prostředí pomocí jednoduchých projektů, např. "skokometr"
 
 ## 20. hodina
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Kostka
     * Zobrazit čísla pomocí teček
     * Podvádění
@@ -242,7 +242,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili2-2-05-kostky-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Dopilování podvodů v kostce
   * Hra "Hasiči POZOR"
     * Ověření náhodnosti kostky
@@ -264,12 +264,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili2-2-07-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Seznámení s ``Wonder Building Kitem``
 
 ## 24. hodina
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Tvorba modelů (hardware) a jejich programování (software) ze stavebnice ``Wonder Building Kit``
 
 ## 25. hodina
@@ -278,7 +278,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili2-2-09-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Pokračování se stavebnicí ``Wonder Building Kit``
   * Pro ovládání robotické ruky jsme přidali ``Waweshark`` joystick. Zde bylo zapotřebí definovat komunikační protokol. Využili jsme funkce ``odešli hodnotu NAME číslo VALUE`` a ``spustit kód když je přijata hodnota (jméno číslo) NAME VALUE``, pojmenovali jsme si jednotlivé osy ``A, B, C`` a definovali hodnotu jako číslo od 0 do 1023. Přijímací strana následně upravuje tyto hodnoty (0 až 1023) buďto na rychlost otáčení motoru (-100 až 100), nebo na polohu serva (0 až 359) pomocí bločku ``mapuj HODNOTU z intervalu od NIZKA do VYSOKA do intervalu od NIZKA do VYSOKA``
     * 0 se namapuje na -100, resp. 0
@@ -302,13 +302,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili2-2-11-microbit-small.jpg" style="height:85px">
 </a>
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Pokračování se stavebnicí ``Wonder Building Kit``
   * Řešili jsme jak transformovat 2-osy joysticku ``x=<0; 1023> y=<0; 1023>`` na rychlost otáčení motorů autíčka ``L=<-100; 100> P=<-100; 100>``. Nakreslili jsme si x, y do osy a vyzkoušeli pouze řešení v ose x (``L=x, P=x``) a y (``L=y, P=-y``), poté jsme výsledek spojili (``L=x+y, P=x-y``) a vysvětlili si, jaké potíže nám způsobí "nasycení", čili stav kdy jedeme rychle a zároveň zatáčíme (``L=150, P=50``). Můžeme buď omezit maximální rychlost (``L=0.5x+0.5y, P=0.5x-0.5y``) a získat konzistentní ovládání, nebo zachovat maximální rychlost a smířit se s nekonzistentním zatáčením při vyšších rychlostech (případně zvolit složitější algoritmy pro plynulejší přechod)
 
 ## 28. hodina
 
-* [Micro:bit](../microbit)
+* [Micro:bit](../assets/microbit)
   * Pokračování se stavebnicí ``Wonder Building Kit``
   * Dokončili jsme vozidlo sledující čáru, autíčko na ovládání a, pomocí senzoru vzdálenosti, upravili jsme jeřáb na jednoduchý hudební nástroj.
 
@@ -354,4 +354,4 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
   * Minetest je hra inspirovaná Minecraftem ale kompletně open-source s velkým množstvím rozšířeních a k dispozici zdarma. Základní hra nabídne několik druhů bločků a nic moc navíc, proto doporučuji kliknout dole v menu "+" (Instalovat hry z ContentDB) a přidat rozšíření jako třeba "MineClone 2", jež je dost podobné Minecraftu. Nebo pouze přidat "Mobs Redo", jež přidává do hry tvory/zvířata (pokud nechcete nebezpečné tvory, je možné použít přidat "only_peaceful_mobs = true" do konfiguračního souboru "minetest.conf", čímž se nepřidají nestvůry, ale pouze hodná zvířata). Hra samozřejmě umožňuje více hráčů buď lokálně, nebo po síti (podobně jak v Minecraftu).
   * My jsme využili tuto hru k nastínění agilní metodologie řízení projektů. Děti dostali za úkol [vytvořit vesnici dle zadaných požadavků](../assets/minetest-vesnice.pdf). Pro zjednodušení a zrychlení dostaly úkoly sprintu připravené. Následně si braly jednoduché úkoly a na konci sprintu (po setmění) jsme zhodnotili a naplánovali další.
 
-<img align="right" src="../../media/robots_bottom.jpg">
+<img align="right" src="../media/robots_bottom.jpg">
