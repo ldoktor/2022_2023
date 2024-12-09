@@ -70,7 +70,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Opakování cyklů na tabuli a s písničkou
   * Pokračování v kurzu B
 * Domácí úkol
-  * Opravite "Pseudo-kód pro počítač" v receptu [[pdf](pokrocili-1-04-peceni.pdf), [odt](pokrocili-1-04-peceni.odt)]
+  * Opravite "Pseudo-kód pro počítač" v receptu [[pdf](../2020_2021/pokrocili-1-04-peceni.pdf), [odt](../2020_2021/pokrocili-1-04-peceni.odt)]
 za pomocí opakování, viz. ukázka v prvních dvou krocích.
   * Volitelně se můžete pokusit dort upéci. Který návod Vám vyhovoval nejvíce?
 
