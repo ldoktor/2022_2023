@@ -32,12 +32,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina
 
-<a href="pokrocili-1-01-code-org.jpg">
-    <img align="right" src="pokrocili-1-01-code-org-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-01-beeboti.jpg">
-    <img align="right" src="pokrocili-1-01-beeboti-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-01-code-org-small.jpg" data-full="pokrocili-1-01-code-org.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-01-beeboti-small.jpg" data-full="pokrocili-1-01-beeboti.jpg" style="height:85px" class="obrazek">
 
 * Stránky [www.code.org](https://www.code.org)
   * Speedrun kurzu B
@@ -47,12 +43,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 2. hodina
 
-<a href="pokrocili-1-02-beeboti2.jpg">
-    <img align="right" src="pokrocili-1-02-beeboti2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-02-beeboti1.jpg">
-    <img align="right" src="pokrocili-1-02-beeboti1-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-02-beeboti2-small.jpg" data-full="pokrocili-1-02-beeboti2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-02-beeboti1-small.jpg" data-full="pokrocili-1-02-beeboti1.jpg" style="height:85px" class="obrazek">
 
 * Beeboti
   * Komentované příběhy s beeboty ve vlastnoručně vyrobených převlecích
@@ -62,9 +54,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 3. hodina
 
-<a href="pokrocili-1-03-cykly.jpg">
-    <img align="right" src="pokrocili-1-03-cykly-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-03-cykly-small.jpg" data-full="pokrocili-1-03-cykly.jpg" style="height:85px" class="obrazek">
 
 * Stránky [www.code.org](https://www.code.org)
   * Opakování cyklů na tabuli a s písničkou
@@ -76,9 +66,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 4. hodina
 
-<a href="pokrocili-1-04-dort.jpg">
-    <img align="right" src="pokrocili-1-04-dort-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-04-dort-small.jpg" data-full="pokrocili-1-04-dort.jpg" style="height:85px" class="obrazek">
 
 * Kontrola a projdutí domácího úkolu [[pdf](pokrocili-1-04-peceni.pdf), [odt](pokrocili-1-04-peceni.odt)]
 * Stránky [www.code.org](https://www.code.org)
@@ -86,9 +74,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 5. hodina
 
-<a href="pokrocili-1-05-cubetto.jpg">
-    <img align="right" src="pokrocili-1-05-cubetto-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-05-cubetto-small.jpg" data-full="pokrocili-1-05-cubetto.jpg" style="height:85px" class="obrazek">
 
 * Cubetto
   * Opakování pohybu po mapě, určení polohy dle řádků a sloupců (A3, B4, ...) a natočení dle světových stran (N - North - sever,
@@ -99,9 +85,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 6. hodina
 
-<a href="pokrocili-1-06-rr.jpg">
-    <img align="right" src="pokrocili-1-06-rr-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-06-rr-small.jpg" data-full="pokrocili-1-06-rr.jpg" style="height:85px" class="obrazek">
 
 * Ricochet Robots
   * Logická deskovka s roboty
@@ -119,9 +103,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 8. hodina
 
-<a href="pokrocili-1-08-rozvrzeni-obrazku.jpg">
-    <img align="right" src="pokrocili-1-08-rozvrzeni-obrazku-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-08-rozvrzeni-obrazku-small.jpg" data-full="pokrocili-1-08-rozvrzeni-obrazku.jpg" style="height:85px" class="obrazek">
 
 * Tvorba "dopisu pro Ježíška" v [gimpu](https://www.gimp.org/)
   * Přibližování a oddalování plochy pomocí `ctrl+kolečko myši`
@@ -130,18 +112,10 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 9. hodina
 
-<a href="pokrocili-1-09-jezisek4.jpg">
-    <img align="right" src="pokrocili-1-09-jezisek4-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-09-jezisek3.jpg">
-    <img align="right" src="pokrocili-1-09-jezisek3-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-09-jezisek2.jpg">
-    <img align="right" src="pokrocili-1-09-jezisek2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-09-jezisek.jpg">
-    <img align="right" src="pokrocili-1-09-jezisek-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-09-jezisek4-small.jpg" data-full="pokrocili-1-09-jezisek4.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-09-jezisek3-small.jpg" data-full="pokrocili-1-09-jezisek3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-09-jezisek2-small.jpg" data-full="pokrocili-1-09-jezisek2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-09-jezisek-small.jpg" data-full="pokrocili-1-09-jezisek.jpg" style="height:85px" class="obrazek">
 
 * Tvorba "dopisu pro Ježíška" v [gimpu](https://www.gimp.org/)
   * Tvorba textu (pozor na barvu - neviditělný text)
@@ -149,9 +123,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 10. hodina
 
-<a href="pokrocili-1-10-microbit.jpg">
-    <img align="right" src="pokrocili-1-10-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-10-microbit-small.jpg" data-full="pokrocili-1-10-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Seznámení s Micro:bitem, jaké má vstupy, jaké výstupy, který "šváb" je zodpovědný za co, kde je anténa, ...
@@ -160,12 +132,8 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 11. hodina
 
-<a href="pokrocili-1-11-koledy2.jpg">
-    <img align="right" src="pokrocili-1-11-koledy2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-11-koledy.jpg">
-    <img align="right" src="pokrocili-1-11-koledy-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-11-koledy2-small.jpg" data-full="pokrocili-1-11-koledy2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-11-koledy-small.jpg" data-full="pokrocili-1-11-koledy.jpg" style="height:85px" class="obrazek">
 
 * Seznámení s notovou osnovou, výškou a délkou not
 * [Micro:bit](../assets/microbit)
@@ -174,9 +142,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 12. hodina
 
-<a href="pokrocili-1-12-koledy.jpg">
-    <img align="right" src="pokrocili-1-12-koledy-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-12-koledy-small.jpg" data-full="pokrocili-1-12-koledy.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Tvorba vlastní koledy (transformace dat z notového zápisu do formátu makecode) [pomůcka](../2019_2022/2019-11-koledy.pdf)
@@ -184,9 +150,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 13. hodina
 
-<a href="pokrocili-1-13-microbit.jpg">
-    <img align="right" src="pokrocili-1-13-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-13-microbit-small.jpg" data-full="pokrocili-1-13-microbit.jpg" style="height:85px" class="obrazek">
 
 * Vysavač
   * Ukázka vnitřností rozbitého vysavače a naznačení možnosti opravy
@@ -196,9 +160,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 14. hodina
 
-<a href="pokrocili-1-14-pocitac.jpg">
-    <img align="right" src="pokrocili-1-14-pocitac-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-14-pocitac-small.jpg" data-full="pokrocili-1-14-pocitac.jpg" style="height:85px" class="obrazek">
 
 * Sestavování počítače
   * Co to je počítač, monitor, periferie
@@ -221,72 +183,52 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 16. hodina
 
-<a href="pokrocili-1-16-microbit3.jpg">
-    <img align="right" src="pokrocili-1-16-microbit3-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-16-microbit2.jpg">
-    <img align="right" src="pokrocili-1-16-microbit2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-16-microbit.jpg">
-    <img align="right" src="pokrocili-1-16-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-16-microbit3-small.jpg" data-full="pokrocili-1-16-microbit3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-16-microbit2-small.jpg" data-full="pokrocili-1-16-microbit2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-16-microbit-small.jpg" data-full="pokrocili-1-16-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * ``Wonder Building Kit`` skupinky pokračovaly ve svých projektech (kolotoč a automatické autíčko) a  ``Grove shield`` skupinka si hrála s LED páskem (různé varianty duhy)
 
 ## 17. hodina
 
-<a href="pokrocili-2-01-microbit.jpg">
-    <img align="right" src="pokrocili-2-01-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-01-microbit-small.jpg" data-full="pokrocili-2-01-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * ``Wonder Building Kit`` skupinky vytvářeli robotickou ruku a motorku, ``Grove shield`` skupinka ovládala LED diodu a připravila si skokometr
 
 ## 18. hodina
 
-<a href="pokrocili-2-02-microbit2.jpg">
-    <img align="right" src="pokrocili-2-02-microbit2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-02-microbit.jpg">
-    <img align="right" src="pokrocili-2-02-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-02-microbit2-small.jpg" data-full="pokrocili-2-02-microbit2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-02-microbit-small.jpg" data-full="pokrocili-2-02-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Robotická ruka, autíčko sledující čáru a několikero projektů ve stavebnici Grove
 
 ## 19. hodina
 
-<a href="pokrocili-2-03-microbit.jpg">
-    <img align="right" src="pokrocili-2-03-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-03-microbit-small.jpg" data-full="pokrocili-2-03-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Pokračování s ``Wonder Building Kit`` (Chodící Yeti, basketbalový koš a robotická ruka)
 
 ## 20. hodina
 
-<a href="pokrocili-2-04-microbit.jpg">
-    <img align="right" src="pokrocili-2-04-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-04-microbit-small.jpg" data-full="pokrocili-2-04-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Pokračování s ``Wonder Building Kit`` (Chodící Yeti, basketbalový koš a vysokozdvižný vozík)
 
 ## 21. hodina
 
-<a href="pokrocili-2-05-microbit.jpg">
-    <img align="right" src="pokrocili-2-05-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-05-microbit-small.jpg" data-full="pokrocili-2-05-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Pokračování s ``Wonder Building Kit`` (Chodící Yeti s detekcí překážky, robotický pes a vysokozdvižný vozík)
 
 ## 22. hodina
 
-<a href="pokrocili-2-06-historie.jpg">
-    <img align="right" src="pokrocili-2-06-historie-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-06-historie-small.jpg" data-full="pokrocili-2-06-historie.jpg" style="height:85px" class="obrazek">
 
 * Historie PC
   * Praktická ukázka historického kalkulátoru Zeta
@@ -296,9 +238,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 23. hodina
 
-<a href="pokrocili-2-07-scratch.jpg">
-    <img align="right" src="pokrocili-2-07-scratch-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-07-scratch-small.jpg" data-full="pokrocili-2-07-scratch.jpg" style="height:85px" class="obrazek">
 
 * [Scratch](https://scratch.mit.edu)
   * [Motivační ukázka hry předchozích studentů](https://scratch.mit.edu/projects/499965964/)
@@ -316,9 +256,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 25. hodina
 
-<a href="pokrocili-2-09-scratch.jpg">
-    <img align="right" src="pokrocili-2-09-scratch-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-09-scratch-small.jpg" data-full="pokrocili-2-09-scratch.jpg" style="height:85px" class="obrazek">
 
 * [Scratch](https://scratch.mit.edu)
   * První jednoduchá hra - chytni kočku
@@ -327,9 +265,7 @@ za pomocí opakování, viz. ukázka v prvních dvou krocích.
 
 ## 26. hodina
 
-<a href="zacatecnici-2-10-scratch2.jpg">
-    <img align="right" src="zacatecnici-2-10-scratch2-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-10-scratch2-small.jpg" data-full="zacatecnici-2-10-scratch2.jpg" style="height:85px" class="obrazek">
 
 * [Scratch](https://scratch.mit.edu)
   * Vyzkoušeli jsme si tvorbu "klonů", neboli instancí naší postavy, na jednoduché hře s kamerou
@@ -360,12 +296,8 @@ ní, ... toho konkrétního klonu
 
 ## 29. hodina
 
-<a href="pokrocili-2-13-robotemil2.jpg">
-    <img align="right" src="pokrocili-2-13-robotemil2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-13-robotemil.jpg">
-    <img align="right" src="pokrocili-2-13-robotemil-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-13-robotemil2-small.jpg" data-full="pokrocili-2-13-robotemil2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-13-robotemil-small.jpg" data-full="pokrocili-2-13-robotemil.jpg" style="height:85px" class="obrazek">
 
 * Testovací hodina [Robota Emila](https://www.h-edu.cz/informatika)
   * Dostali jsme možnost vyzkoušet beta-verzi Robota Emila; děti si zkoušely úkoly dle libosti, ve dvojicích diskutoval
@@ -384,15 +316,20 @@ y rozdíly a na závěr představily nejoblíbenější zadání
 
 ## 32. hodina
 
-<a href="pokrocili-2-16-minetest2.jpg">
-    <img align="right" src="pokrocili-2-16-minetest2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-16-minetest.jpg">
-    <img align="right" src="pokrocili-2-16-minetest-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-16-minetest2-small.jpg" data-full="pokrocili-2-16-minetest2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-16-minetest-small.jpg" data-full="pokrocili-2-16-minetest.jpg" style="height:85px" class="obrazek">
 
 * [Minetest](https://www.minetest.net/)
   * Minetest je hra inspirovaná Minecraftem ale kompletně open-source s velkým množstvím rozšířeních a k dispozici zdarma. Základní hra nabídne několik druhů bločků a nic moc navíc, proto doporučuji kliknout dole v menu "+" (Instalovat hry z ContentDB) a přidat rozšíření jako třeba "MineClone 2", jež je dost podobné Minecraftu. Nebo pouze přidat "Mobs Redo", jež přidává do hry tvory/zvířata (pokud nechcete nebezpečné tvory, je možné použít přidat "only_peaceful_mobs = true" do konfiguračního souboru "minetest.conf", čímž se nepřidají nestvůry, ale pouze hodná zvířata). Hra samozřejmě umožňuje více hráčů buď lokálně, nebo po síti (podobně jak v Minecraftu).
   * My jsme využili tuto hru k nastínění agilní metodologie řízení projektů. Děti dostali za úkol [vytvořit vesnici dle zadaných požadavků](../assets/minetest-vesnice.pdf). Pro zjednodušení a zrychlení dostaly úkoly sprintu připravené. Následně si braly jednoduché úkoly a na konci sprintu (po setmění) jsme zhodnotili a naplánovali další.
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <img align="right" src="../media/robots_bottom.jpg">

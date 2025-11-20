@@ -44,9 +44,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 2. hodina
 
-<a href="pokrocili2-1-02-twinery.jpg">
-    <img align="right" src="pokrocili2-1-02-twinery-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-02-twinery-small.jpg" data-full="pokrocili2-1-02-twinery.jpg" style="height:85px" class="obrazek">
 
 * [Twinery](https://twinery.org)
   * Seznámení s prostředím
@@ -78,9 +76,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 6. hodina
 
-<a href="pokrocili2-1-06-pc.jpg">
-    <img align="right" src="pokrocili2-1-06-pc-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-06-pc-small.jpg" data-full="pokrocili2-1-06-pc.jpg" style="height:85px" class="obrazek">
 
 * Konfigurace vlastního počítače z komponent
   * Vyzkoušeli jsme si "naskládat do košíku" komponenty na funkční počítač a porovnat cenu/výkon
@@ -102,9 +98,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 8. hodina
 
-<a href="pokrocili2-1-08-gcd.jpg">
-    <img align="right" src="pokrocili2-1-08-gcd-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-08-gcd-small.jpg" data-full="pokrocili2-1-08-gcd.jpg" style="height:85px" class="obrazek">
 
 * Algoritmy
   * Zopakování třídícího algoritmu [pdf](sort.pdf), [odg](sort.odg)
@@ -115,9 +109,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 9. hodina
 
-<a href="pokrocili2-1-09-arcade.jpg">
-    <img align="right" src="pokrocili2-1-09-arcade-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-09-arcade-small.jpg" data-full="pokrocili2-1-09-arcade.jpg" style="height:85px" class="obrazek">
 
 * [MakeCode Arcade](https://arcade.makecode.com)
   * Vyzkoušeli jsme [motivační hru](https://makecode.com/_Txf6iT1H4MHC)
@@ -137,9 +129,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 12. hodina
 
-<a href="pokrocili2-1-12-arcade.jpg">
-    <img align="right" src="pokrocili2-1-12-arcade-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-12-arcade-small.jpg" data-full="pokrocili2-1-12-arcade.jpg" style="height:85px" class="obrazek">
 
 * [MakeCode Arcade](https://arcade.makecode.com)
   * Pokračování v [návodu](https://www.youtube.com/watch?v=MGbKModdYiI&list=PL7Z0B3syVHmCdo7Jha2AXnC8YaolrvaMF&index=1) cca 4. - 6. část
@@ -154,9 +144,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 14. hodina
 
-<a href="pokrocili2-1-14-pocitac.jpg">
-    <img align="right" src="pokrocili2-1-14-pocitac-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-14-pocitac-small.jpg" data-full="pokrocili2-1-14-pocitac.jpg" style="height:85px" class="obrazek">
 
 * Sestavování počítače
   * Opakování z čeho se počítač skládá, k čemu to slouží a jak je to pospojované
@@ -188,9 +176,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 16. hodina
 
-<a href="pokrocili2-1-16-makecode.jpg">
-    <img align="right" src="pokrocili2-1-16-makecode-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-16-makecode-small.jpg" data-full="pokrocili2-1-16-makecode.jpg" style="height:85px" class="obrazek">
 
 * [MakeCode Arcade](https://arcade.makecode.com)
   * Předělání hry z předchozích hodin na hru "přecházení silnice", čímž jsme si shrnuli učivo a zároveň si ukázali, jak malý je rozdíl mezi poměrně odlišnými hrami.
@@ -214,9 +200,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 19. hodina
 
-<a href="pokrocili2-2-03-microbit.jpg">
-    <img align="right" src="pokrocili2-2-03-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-03-microbit-small.jpg" data-full="pokrocili2-2-03-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Seznámení s Micro:bitem
@@ -238,9 +222,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 21. hodina
 
-<a href="pokrocili2-2-05-kostky.jpg">
-    <img align="right" src="pokrocili2-2-05-kostky-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-05-kostky-small.jpg" data-full="pokrocili2-2-05-kostky.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Dopilování podvodů v kostce
@@ -260,9 +242,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 23. hodina
 
-<a href="pokrocili2-2-07-microbit.jpg">
-    <img align="right" src="pokrocili2-2-07-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-07-microbit-small.jpg" data-full="pokrocili2-2-07-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Seznámení s ``Wonder Building Kitem``
@@ -274,9 +254,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 25. hodina
 
-<a href="pokrocili2-2-09-microbit.jpg">
-    <img align="right" src="pokrocili2-2-09-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-09-microbit-small.jpg" data-full="pokrocili2-2-09-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Pokračování se stavebnicí ``Wonder Building Kit``
@@ -295,12 +273,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 27. hodina
 
-<a href="pokrocili2-2-11-microbit2.jpg">
-    <img align="right" src="pokrocili2-2-11-microbit2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-11-microbit.jpg">
-    <img align="right" src="pokrocili2-2-11-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-11-microbit2-small.jpg" data-full="pokrocili2-2-11-microbit2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-11-microbit-small.jpg" data-full="pokrocili2-2-11-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Pokračování se stavebnicí ``Wonder Building Kit``
@@ -314,9 +288,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 29. hodina
 
-<a href="pokrocili2-2-13-obrazky.jpg">
-    <img align="right" src="pokrocili2-2-13-obrazky-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-13-obrazky-small.jpg" data-full="pokrocili2-2-13-obrazky.jpg" style="height:85px" class="obrazek">
 
 * Předávání instrukcí - malování obrázků
   * Děti se pokusily předat co nejpřesněji instrukce partnerům bez možnosti zpětné vazby. Toto cvičení nám ukazuje, kolik věcí si domýšlí lidský mozek, když nemá přesná data, případně nestíhá data zpracovat. Také nám ukazuje, kolik dat se ztratí při transformaci myšlenky na slova u prvního žáka, při přenosu zvuku, při zpracování slov u žáka druhého a nakonec při transformaci myšlenky na papír. Co říkám není to, co myslím a co slyším, nemusí být to, co druhý říká.
@@ -334,24 +306,27 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 31. hodina
 
-<a href="pokrocili2-2-15-shapez2.jpg">
-    <img align="right" src="pokrocili2-2-15-shapez2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-15-shapez.jpg">
-    <img align="right" src="pokrocili2-2-15-shapez-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-15-shapez2-small.jpg" data-full="pokrocili2-2-15-shapez2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-15-shapez-small.jpg" data-full="pokrocili2-2-15-shapez.jpg" style="height:85px" class="obrazek">
 
 * Optimalizace, úzké hrdlo, konstrukce a návaznost výrobních linek
   * Využili jsme hry [Shapezio](https://shapez.io/) k názorné ukázce, jak stavět optimální konstrukce, co to je úzké hrdlo, jak se projevuje a jak spočítat optimální poměr jednotlivých komponent.
 
 ## 32. hodina
 
-<a href="pokrocili2-2-16-minetest.jpg">
-    <img align="right" src="pokrocili2-2-16-minetest-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-16-minetest-small.jpg" data-full="pokrocili2-2-16-minetest.jpg" style="height:85px" class="obrazek">
 
 * [Minetest](https://www.minetest.net/)
   * Minetest je hra inspirovaná Minecraftem ale kompletně open-source s velkým množstvím rozšířeních a k dispozici zdarma. Základní hra nabídne několik druhů bločků a nic moc navíc, proto doporučuji kliknout dole v menu "+" (Instalovat hry z ContentDB) a přidat rozšíření jako třeba "MineClone 2", jež je dost podobné Minecraftu. Nebo pouze přidat "Mobs Redo", jež přidává do hry tvory/zvířata (pokud nechcete nebezpečné tvory, je možné použít přidat "only_peaceful_mobs = true" do konfiguračního souboru "minetest.conf", čímž se nepřidají nestvůry, ale pouze hodná zvířata). Hra samozřejmě umožňuje více hráčů buď lokálně, nebo po síti (podobně jak v Minecraftu).
   * My jsme využili tuto hru k nastínění agilní metodologie řízení projektů. Děti dostali za úkol [vytvořit vesnici dle zadaných požadavků](../assets/minetest-vesnice.pdf). Pro zjednodušení a zrychlení dostaly úkoly sprintu připravené. Následně si braly jednoduché úkoly a na konci sprintu (po setmění) jsme zhodnotili a naplánovali další.
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <img align="right" src="../media/robots_bottom.jpg">
